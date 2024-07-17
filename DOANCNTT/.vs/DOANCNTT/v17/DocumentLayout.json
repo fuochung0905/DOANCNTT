@@ -1,0 +1,110 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\FHUNG\\source\\repos\\DOANCNTT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{91D63210-FAAC-4665-8A10-5564A1C37679}|SERVICE\\SERVICE.csproj|c:\\users\\fhung\\source\\repos\\doancntt\\service\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91D63210-FAAC-4665-8A10-5564A1C37679}|SERVICE\\SERVICE.csproj|solutionrelative:service\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEE01C61-4410-4FE6-95E6-856052CB7895}|MODELS\\MODELS.csproj|c:\\users\\fhung\\source\\repos\\doancntt\\models\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEE01C61-4410-4FE6-95E6-856052CB7895}|MODELS\\MODELS.csproj|solutionrelative:models\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAD87ADB-DC68-4636-919C-081BFEE6140D}|ENTITIES\\ENTITIES.csproj|c:\\users\\fhung\\source\\repos\\doancntt\\entities\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAD87ADB-DC68-4636-919C-081BFEE6140D}|ENTITIES\\ENTITIES.csproj|solutionrelative:entities\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{270AEFFA-A6AF-4A04-90F7-748BE0577067}|BE\\BE.fsproj|c:\\users\\fhung\\source\\repos\\doancntt\\be\\be.fsproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{270AEFFA-A6AF-4A04-90F7-748BE0577067}|BE\\BE.fsproj|solutionrelative:be\\be.fsproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 134,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\FHUNG\\source\\repos\\DOANCNTT\\SERVICE\\Class1.cs",
+              "RelativeDocumentMoniker": "SERVICE\\Class1.cs",
+              "ToolTip": "C:\\Users\\FHUNG\\source\\repos\\DOANCNTT\\SERVICE\\Class1.cs",
+              "RelativeToolTip": "SERVICE\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T02:18:25.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\FHUNG\\source\\repos\\DOANCNTT\\MODELS\\Class1.cs",
+              "RelativeDocumentMoniker": "MODELS\\Class1.cs",
+              "ToolTip": "C:\\Users\\FHUNG\\source\\repos\\DOANCNTT\\MODELS\\Class1.cs",
+              "RelativeToolTip": "MODELS\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T02:17:54.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\FHUNG\\source\\repos\\DOANCNTT\\ENTITIES\\Class1.cs",
+              "RelativeDocumentMoniker": "ENTITIES\\Class1.cs",
+              "ToolTip": "C:\\Users\\FHUNG\\source\\repos\\DOANCNTT\\ENTITIES\\Class1.cs",
+              "RelativeToolTip": "ENTITIES\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T02:17:31.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BE",
+              "DocumentMoniker": "C:\\Users\\FHUNG\\source\\repos\\DOANCNTT\\BE\\BE.fsproj",
+              "RelativeDocumentMoniker": "BE\\BE.fsproj",
+              "ToolTip": "C:\\Users\\FHUNG\\source\\repos\\DOANCNTT\\BE\\BE.fsproj",
+              "RelativeToolTip": "BE\\BE.fsproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001351|",
+              "WhenOpened": "2024-07-17T02:16:38.943Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 2665,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
